@@ -8,7 +8,9 @@
  
  ##My strengths:
  
- *Be able to listen and react quickly, curiosity, logical thinking, responsibility. Also attention to detail and perseverance.
+ *Be able to listen and react quickly, curiosity, logical thinking, responsibility.
+ Also attention to detail and perseverance.
+ 
  ##Scills:
  
  *Python basik
