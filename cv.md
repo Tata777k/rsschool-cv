@@ -1,21 +1,21 @@
- #Kosareva Tatyana
+ # Kosareva Tatyana
  
- ##My contact info:
+ ## My contact info:
  
- *E-mail: kos.t.v@yandex.ru
- *GitHub: Tata777k
- *Telegram: @glafiruchka
+ * E-mail: kos.t.v@yandex.ru
+ * GitHub: Tata777k
+ * Telegram: @glafiruchka
  
- ##My strengths:
+ ## My strengths:
  
- *Be able to listen and react quickly, curiosity, logical thinking, responsibility.
+ * Be able to listen and react quickly, curiosity, logical thinking, responsibility.
  Also attention to detail and perseverance.
  
- ##Scills:
+ ## Scills:
  
- *Python basik
+ * Python basik
  
- #Code Examples:
+ # Code Examples:
  
  ```
  def areYouPlayingBanjo(name):
@@ -25,8 +25,9 @@
      return name + ' does not play banjo'
   ```
  
- ##Courses:
-  *RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+ ## Courses:
+  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
   
- ##Languages:
-  *English A2(B1 in process) 
+ ## Languages:
+  * English A2(B1 in process) 
+  * Russian native spiker
