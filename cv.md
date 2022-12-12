@@ -30,4 +30,4 @@
   
  ## Languages:
   * English A2(B1 in process) 
-  * Russian native spiker
+  * Russian native speaker
