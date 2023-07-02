@@ -5,16 +5,18 @@
 ## My contact info:
 
 E-mail: kos.t.v@yandex.ru
+
 GitHub: Tata777k
+
 Telegram: @glafiruchka
 ***
 ## My strengths:
 
 ***Able to listen and react quickly, curiosity, logical thinking, responsibility. Also attention to detail and perseverance***
 
-## Scills:
+## Skills:
 
-Python basik
+Python basic
 
 # Code Examples:
 
