@@ -1,4 +1,4 @@
-![(Ava)](https://github.com/Tata777k/rsSschool-cv/blob/gh-pages/ava2.jpg)
+![(Ava)](https://github.com/Tata777k/rsschool-cv/blob/gh-pages/ava2.jpg)
 # Kosareva Tatyana
 ***
 ## My contact info:
